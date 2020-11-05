@@ -1,0 +1,381 @@
+﻿  animation.cpp
+  camera.cpp
+  box.cpp
+  box_bld.cpp
+  coldet.cpp
+  coldet_bld.cpp
+  math3d.cpp
+  mytritri.cpp
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\camera.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\animation.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\camera.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\animation.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\camera.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\animation.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\camera.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\camera.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\animation.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\camera.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\animation.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\camera.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\animation.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\animation.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\camera.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\animation.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\coldet\box_bld.cpp(134,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\coldet\coldet.cpp(374,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\camera.cpp(116,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\camera.cpp(125,13): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\camera.cpp(347,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\camera.cpp(353,69): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(42,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(187,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(189,47): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(189,12): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(222,14): warning C4101: 'stbuffer': unreferenced local variable
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(273,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(314,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(391,26): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(392,31): warning C4244: '=': conversion from '_Ty' to 'int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(410,14): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(415,21): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(430,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(431,36): warning C4244: '=': conversion from '_Ty' to 'int8', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(439,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\animation.cpp(372,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+  sysdep.cpp
+  hdre.cpp
+  ImCurveEdit.cpp
+  ImGradient.cpp
+  imgui.cpp
+  ImGuizmo.cpp
+  imgui_demo.cpp
+  imgui_impl_opengl3.cpp
+  imgui_impl_sdl.cpp
+  imgui_widgets.cpp
+  ImSequencer.cpp
+  picopng.cpp
+  pvmparser.cpp
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\hdre.cpp(25,13): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\hdre.cpp(27,16): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\hdre.cpp(28,17): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\hdre.cpp(87,11): warning C4244: 'initializing': conversion from 'double' to 'size_t', possible loss of data
+  textparser.cpp
+  fbo.cpp
+  framework.cpp
+  application.cpp
+  input.cpp
+  main.cpp
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\pvmparser.cpp(28,40): warning C4244: 'argument': conversion from 'const __int64' to 'size_t', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\pvmparser.cpp(32,52): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\pvmparser.cpp(36,33): warning C4244: 'argument': conversion from 'const __int64' to 'size_t', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\pvmparser.cpp(46,46): warning C4244: 'argument': conversion from '__int64' to 'size_t', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\pvmparser.cpp(294,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\pvmparser.cpp(342,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\pvmparser.cpp(352,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\extra\pvmparser.cpp(364,1): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(2263): message : see declaration of 'sscanf'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\framework.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\framework.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\framework.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\framework.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\framework.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\framework.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\framework.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\framework.cpp)
+  material.cpp
+  mesh.cpp
+  rendertotexture.cpp
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\material.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\material.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\material.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\material.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\material.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\material.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\material.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\material.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\mesh.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\mesh.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\mesh.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\mesh.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\mesh.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\mesh.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\mesh.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\mesh.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.cpp(45,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.cpp(147,1): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\string.h(338): message : see declaration of 'strncpy'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\rendertotexture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\rendertotexture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\rendertotexture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\rendertotexture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\rendertotexture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\rendertotexture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\rendertotexture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\rendertotexture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.cpp(1199,32): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(673,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(788,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(982,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1153,27): warning C4244: 'argument': conversion from 'double' to 'const unsigned int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1154,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1102,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1286,40): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1286,25): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1288,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1288,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1289,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1296,44): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1296,31): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1298,43): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1311,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\mesh.cpp(1334,30): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  scenenode.cpp
+  shader.cpp
+  texture.cpp
+  utils.cpp
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\main.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\application.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\fbo.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\main.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\application.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\fbo.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\main.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\application.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\fbo.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\main.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\application.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\main.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\application.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\main.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\application.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\main.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\application.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\main.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\application.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\fbo.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\fbo.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\fbo.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\fbo.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\fbo.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\input.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\input.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\input.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\input.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\input.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\input.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\input.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\input.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\input.cpp(138,24): warning C4244: '=': conversion from 'float' to 'char', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\input.cpp(146,19): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\main.cpp(171,46): warning C4244: '=': conversion from 'Sint32' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\main.cpp(208,24): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\scenenode.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\scenenode.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\scenenode.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\scenenode.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\scenenode.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\scenenode.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\scenenode.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\scenenode.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\application.cpp(77,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\application.cpp(92,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\application.cpp(93,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\application.cpp(112,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\application.cpp(114,55): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\application.cpp(206,36): warning C4244: '*=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\application.cpp(208,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  volume.cpp
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\utils.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\utils.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\utils.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\utils.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\utils.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\utils.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\utils.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\utils.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(137,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(334,56): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(335,63): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(360,10): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(370,16): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(392,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(394,17): warning C4244: 'argument': conversion from 'float' to 'const unsigned int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(407,12): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(416,14): warning C4018: '>=': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(456,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(457,59): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(457,44): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(457,29): warning C4244: 'argument': conversion from '_Ty' to 'unsigned int', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(467,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(468,74): warning C4244: 'argument': conversion from '_Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(468,59): warning C4244: 'argument': conversion from '_Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(468,44): warning C4244: 'argument': conversion from '_Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\utils.cpp(468,29): warning C4244: 'argument': conversion from '_Ty' to 'unsigned char', possible loss of data
+          with
+          [
+              _Ty=float
+          ]
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\shader.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\shader.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\shader.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\shader.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\shader.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\shader.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\shader.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\shader.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\volume.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\volume.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\volume.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\volume.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\volume.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\volume.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\volume.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\volume.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(26,66): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(64,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(149,82): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,109): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,100): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,91): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(179,82): warning C4244: 'argument': conversion from 'float' to 'unsigned char', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\framework.h(181,88): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\shader.cpp(177,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\shader.cpp(216,20): warning C4018: '<': signed/unsigned mismatch
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.24.28314\include\xtgmath.h(24,51): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data (compiling source file ..\..\src\texture.cpp)
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(18,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(19,56): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(19,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(24,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(25,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(32,55): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(32,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(33,57): warning C4244: 'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(33,9): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(38,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(39,15): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(208,125): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(311,94): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(311,87): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(332,102): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(332,94): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(332,87): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(358,111): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(358,104): warning C4244: 'argument': conversion from 'float' to 'GLsizei', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(538,18): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(539,19): warning C4244: '=': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(556,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(552,12): warning C4101: 'bytesPerPixel': unreferenced local variable
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\texture.cpp(670,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(61,34): warning C4552: '/': result of expression not used
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(73,34): warning C4552: '/': result of expression not used
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(44,1): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(151,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(152,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(153,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(155,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(156,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(157,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(159,14): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(160,11): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(169,10): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(178,20): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(179,21): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(180,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(181,13): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(204,27): warning C4244: 'initializing': conversion from 'double' to 'unsigned int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(236,35): warning C4244: 'initializing': conversion from 'float' to 'unsigned int', possible loss of data
+C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\src\volume.cpp(255,13): warning C4244: 'initializing': conversion from 'float' to 'Uint8', possible loss of data
+  tritri.c
+  imgui_draw.cpp
+LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 2424 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+LINK : warning LNK4286: symbol '___glewDeleteBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewLinkProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewDeleteShader' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewGenBuffers' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewGetProgramInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewDetachShader' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewUniformMatrix4fv' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewBlendEquationSeparate' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewGenVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewBlendEquation' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewShaderSource' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewDeleteProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewActiveTexture' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewAttachShader' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewBufferData' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewGetUniformLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewBlendFuncSeparate' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewDeleteVertexArrays' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewGetProgramiv' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewGetShaderInfoLog' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewUniform1i' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewCreateProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewBindBuffer' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewCreateShader' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewGetAttribLocation' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewCompileShader' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewGetShaderiv' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewDrawElementsBaseVertex' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewVertexAttribPointer' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewUseProgram' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewBindSampler' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewBindVertexArray' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+LINK : warning LNK4286: symbol '___glewEnableVertexAttribArray' defined in 'glew32s.lib(glew.obj)' is imported by 'imgui_impl_opengl3.obj'
+glew32s.lib(glew.obj) : warning LNK4099: PDB 'vc120.pdb' was not found with 'glew32s.lib(glew.obj)' or at 'C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\vc120.pdb'; linking object as if no debug info
+  visualstudio.vcxproj -> C:\Users\GTI\Desktop\ACG_2020_Student\ACG_2020_Students\visualstudio15\VS2015\..\..\framework.exe
